@@ -1,0 +1,10 @@
+bread 3.0
+milk 5.0
+sausages 4.0
+cucumber 2.0
+shashlik 15.0
+pizza 30.0
+salami 10.0
+cheese 7.5
+apple 1.5
+chocolate 6.0
